@@ -1,0 +1,4 @@
+C:/Users/Sharad Mishra/YOLOV4/Images/Phone\1.jpg
+C:/Users/Sharad Mishra/YOLOV4/Images/Phone\phone2.jpg
+C:/Users/Sharad Mishra/YOLOV4/Images/Phone\phone3.jpg
+C:/Users/Sharad Mishra/YOLOV4/Images/Phone\phone4.jpg

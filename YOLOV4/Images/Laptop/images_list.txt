@@ -1,0 +1,4 @@
+C:/Users/Sharad Mishra/YOLOV4/Images/Laptop\11.jpg
+C:/Users/Sharad Mishra/YOLOV4/Images/Laptop\22.jpg
+C:/Users/Sharad Mishra/YOLOV4/Images/Laptop\33.jpg
+C:/Users/Sharad Mishra/YOLOV4/Images/Laptop\44.jpg
